@@ -2,7 +2,7 @@
 
 using namespace std;
 
-class CPolygon
+class CPolygon //Parent class
 {
 protected:
     int width, height;
